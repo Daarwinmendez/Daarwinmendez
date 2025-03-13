@@ -1,4 +1,4 @@
-Hello! I'm Darwin Méndez, a developer from Santo Domingo, Dominican Republic, currently pursuing an Associate Degree in Artificial Intelligence at the Instituto Tecnológico de las Américas (ITLA). I have experience in machine learning, data modeling, and Python programming.​
+Hello! I'm Darwin Méndez, a developer from Santo Domingo, Dominican Republic, currently pursuing an Associate Degree in Artificial Intelligence at Instituto Tecnológico de las Américas (ITLA). I have experience in machine learning, data modeling, and Python programming.​
 
 On my GitHub profile, you'll find projects such as:
 
