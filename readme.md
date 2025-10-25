@@ -5,7 +5,7 @@ Currently, I am working on **AI Vision and Embedded AI Systems**.
 On my GitHub profile, you can find projects such as:
 
 - **💡 LLM-Applications**: Practical applications of **Large Language Models (LLMs)**, exploring their potential in various **natural language processing** tasks.
-- ** Public Payroll Data Analysis**: An **in-depth analysis of public payrolls** in the Dominican Republic, identifying significant **patterns and trends**.
+- ** 🌍💰 Public Payroll Data Analysis**: An **in-depth analysis of public payrolls** in the Dominican Republic, identifying significant **patterns and trends**.
 - **VRP with K-Means Constrained**: Implementation of **solutions to the Vehicle Routing Problem** using **capacity-constrained clustering with K-Means**.
 - **End-to-End Heart Disease Classifier**: Development of a **machine learning model** to **predict heart diseases** based on medical attributes.
 
